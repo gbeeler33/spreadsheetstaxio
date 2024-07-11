@@ -1,2 +1,0 @@
-# spreadsheetstaxio
-My awesome repository
